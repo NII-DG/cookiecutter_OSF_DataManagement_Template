@@ -1,0 +1,2 @@
+# cookiecutter_OSF_DataManagement_Template
+cookiecutter_OSF_DataManagement_Template
